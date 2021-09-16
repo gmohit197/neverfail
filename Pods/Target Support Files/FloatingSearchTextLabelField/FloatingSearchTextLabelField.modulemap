@@ -1,0 +1,6 @@
+framework module FloatingSearchTextLabelField {
+  umbrella header "FloatingSearchTextLabelField-umbrella.h"
+
+  export *
+  module * { export * }
+}

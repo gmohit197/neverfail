@@ -1,0 +1,6 @@
+framework module PPSSignatureView {
+  umbrella header "PPSSignatureView-umbrella.h"
+
+  export *
+  module * { export * }
+}

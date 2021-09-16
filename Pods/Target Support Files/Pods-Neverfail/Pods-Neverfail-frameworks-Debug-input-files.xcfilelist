@@ -1,0 +1,21 @@
+${PODS_ROOT}/Target Support Files/Pods-Neverfail/Pods-Neverfail-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/BTNavigationDropdownMenu/BTNavigationDropdownMenu.framework
+${BUILT_PRODUCTS_DIR}/ChameleonFramework/ChameleonFramework.framework
+${BUILT_PRODUCTS_DIR}/EasyTipView/EasyTipView.framework
+${BUILT_PRODUCTS_DIR}/FloatingSearchTextLabelField/FloatingSearchTextLabelField.framework
+${BUILT_PRODUCTS_DIR}/IQKeyboardManagerSwift/IQKeyboardManagerSwift.framework
+${BUILT_PRODUCTS_DIR}/LNZTreeView/LNZTreeView.framework
+${BUILT_PRODUCTS_DIR}/MDFInternationalization/MDFInternationalization.framework
+${BUILT_PRODUCTS_DIR}/MDFTextAccessibility/MDFTextAccessibility.framework
+${BUILT_PRODUCTS_DIR}/MaterialComponents/MaterialComponents.framework
+${BUILT_PRODUCTS_DIR}/MotionAnimator/MotionAnimator.framework
+${BUILT_PRODUCTS_DIR}/MotionInterchange/MotionInterchange.framework
+${BUILT_PRODUCTS_DIR}/PPSSignatureView/PPSSignatureView.framework
+${BUILT_PRODUCTS_DIR}/PTTimer/PTTimer.framework
+${BUILT_PRODUCTS_DIR}/SWRevealViewController/SWRevealViewController.framework
+${BUILT_PRODUCTS_DIR}/SignaturePad/SignaturePad.framework
+${BUILT_PRODUCTS_DIR}/SkyFloatingLabelTextField/SkyFloatingLabelTextField.framework
+${BUILT_PRODUCTS_DIR}/SwiftEventBus/SwiftEventBus.framework
+${BUILT_PRODUCTS_DIR}/SwiftyGif/SwiftyGif.framework
+${BUILT_PRODUCTS_DIR}/SwipeCellKit/SwipeCellKit.framework
